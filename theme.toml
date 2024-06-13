@@ -1,0 +1,28 @@
+name = "dead-simple-spiced"
+license = "MIT"
+licenselink = "https://github.com/geniokua/hugo-dead-simple-spiced/blob/main/LICENSE"
+description = "Dead simple Hugo theme - spiced."
+homepage = "https://github.com/geniokua/hugo-dead-simple-spiced"
+tags = [
+    "blog",
+    "company",
+    "documentation",
+    "docs",
+    "minimal",
+    "responsive",
+    "light",
+    "simple",
+    "clean"
+]
+features = [
+  "responsive",
+  "single-column",
+  "blog",
+  "table-of-contents",
+  "favicon"
+]
+min_version = "0.83.0"
+
+[author]
+    name = "geniokua"
+    homepage = "https://github.com/geniokua"
