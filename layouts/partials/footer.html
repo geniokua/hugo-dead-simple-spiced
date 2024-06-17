@@ -3,6 +3,9 @@
 <footer>
 {{ partial "footer_scripts.html" . }}
 {{ partial "search-index.html" . }}
+  <span class="copyright">
+		{{ replace .Site.Copyright "{year}" now.Year }}
+	</span>
 </footer>
 
 </body>
