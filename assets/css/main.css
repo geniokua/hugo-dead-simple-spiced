@@ -218,3 +218,15 @@ th {
 .copyright {
   font-size: 0.75em;
 }
+
+.footer {
+  display: flex;
+  font-size: 0.875em;
+  align-items: center;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  gap: 0.25em;
+  padding: 1em;
+  margin-bottom: 1px;
+}
